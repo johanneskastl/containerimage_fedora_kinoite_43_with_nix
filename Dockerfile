@@ -1,4 +1,4 @@
-FROM quay.io/fedora-ostree-desktops/kinoite:43.20260409.0-x86_64
+FROM quay.io/fedora-ostree-desktops/kinoite:43
 
 LABEL org.opencontainers.image.title="Fedora Kinoite 43 (with /nix)"
 LABEL org.opencontainers.image.description="Fedora Kinoite 43 with a /nix directory"
